@@ -1,0 +1,65 @@
+body{
+    background-color: #edeeeb;
+    padding: 20px;
+}
+h2{
+    color:#9093cf;
+}
+a{
+    color:rgb(90, 29, 148);
+}
+a:hover{
+    color: blueviolet;
+}
+a:visited{
+    color: red;
+}
+td{
+    padding: 20px;
+}
+table {
+    border-collapse: collapse;
+    border-color: #4d4f7e;
+}
+tr:hover{
+    background-color: rgb(141, 157, 214);
+    color: rgb(240, 240, 240);
+}
+input[type=text]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+input[type=number]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+textarea {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+div {
+    border-radius: 5px;
+    padding: 20px;
+  }
+Button{
+    border-color: #9093cf;
+    background-color: #9093cf;
+    width: 5%;
+    height: 5%;
+    border-radius: 4px;
+}
+#check{
+    padding: 20px;
+}
